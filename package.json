@@ -1,0 +1,11 @@
+{
+  "name": "chrome-facebook",
+  "version": "1.0.0",
+  "description": "auto login facebook",
+  "main": "index.js",
+  "author": "aof.dev@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  }
+}
