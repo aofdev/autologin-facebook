@@ -1,7 +1,8 @@
 # chrome-autologin-facebook
 chrome auto login facebook with [puppeteer](https://github.com/GoogleChrome/puppeteer)
 
-## Setup Project
+## Installation
+> *Note: Node v7.6.0 or greater*
 
 ``` bash
 # Git Clone Project
