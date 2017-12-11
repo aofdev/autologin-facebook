@@ -17,7 +17,7 @@ npm install || yarn install
 ```
 
 ## Config
-Enter username and password
+Enter facebook username and password
 ``` bash
 const USER = {
     username : "",
