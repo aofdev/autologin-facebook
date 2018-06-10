@@ -2,10 +2,17 @@
   "name": "chrome-facebook",
   "version": "1.0.0",
   "description": "auto login facebook",
-  "main": "index.js",
   "author": "aof.dev@gmail.com",
   "license": "MIT",
+  "scripts": {
+    "start": "node login_facebook.js",
+    "test": "jest"
+  },
   "dependencies": {
-    "puppeteer": "^0.13.0"
+    "puppeteer": "^1.5.0",
+    "jest": "^22.0.0",
+    "prettier": "^1.9.2",
+    "rimraf": "^2.6.2",
+    "chalk": "^2.4.1"
   }
 }

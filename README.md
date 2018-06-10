@@ -19,10 +19,7 @@ npm install || yarn install
 ## Config
 Enter facebook username and password
 ``` bash
-const USER = {
-    username : "",
-    password : ""
-}
+await self.LOGIN(page, '', '')
 ```
 
 
@@ -31,5 +28,11 @@ const USER = {
 ``` bash
 node login_facebook.js
 
+```
+
+## Test Project
+
+``` bash
+npm test | yarn test
 ```
 
