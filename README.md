@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/aofdev/chrome-autologin-facebook.svg?style=svg&circle-token=832dcfbd38e42a701588b384c3724915ac7b6ba4)](https://circleci.com/gh/aofdev/chrome-autologin-facebook)
+
 # chrome-autologin-facebook
 chrome auto login facebook with [puppeteer](https://github.com/GoogleChrome/puppeteer)
 
