@@ -1,5 +1,5 @@
 const timeout = 11000
-const facebook = require('../login_facebook')
+const facebook = require('../helpers/login_facebook')
 
 describe(
   'Test Login',

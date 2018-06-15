@@ -18,7 +18,6 @@
   "jest": {
     "testPathIgnorePatterns":[
       "<rootDir>/__tests__/helpers"
-    ],
-    "testRegex": "/__tests__/.*.test.(js|ts|tsx)?$"
+    ]
   }
 }
